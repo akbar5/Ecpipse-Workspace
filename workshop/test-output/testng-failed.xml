@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="com.workshop.KPMG_Workshop">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.workshop.KPMG_Workshop -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
